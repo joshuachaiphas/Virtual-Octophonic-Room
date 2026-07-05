@@ -1,6 +1,5 @@
 # Virtual-Octophonic-Room
 
-Introduction
 In the field of audio engineering and music production, it is often necessary to be present in a specific acoustic environment. 
 However, it may not always be possible or convenient to have access to the physical space, especially in the case of a multi-channel 
 studio with several speakers. This is where binaural methods come in, which allow us to record and experience sound as if it were being 
